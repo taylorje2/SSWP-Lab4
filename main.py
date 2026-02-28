@@ -29,3 +29,6 @@ while True:
 
         print(apod)
 
+        input("\nPress Enter to continue...")
+
+
