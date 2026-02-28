@@ -15,4 +15,4 @@ class nasa_apod(BaseModel):
 
     # results layout of the APOD
     def __str__(self):
-        return f"Title: {self.title}\nDate: {self.date}\nExplanation: {self.explanation}\nURL: {self.url}\nHD URL: {self.hdurl}"
+        return f"Title: {self.title}\nDate: {self.date}\n\nExplanation: {self.explanation}\n\nURL: {self.url}\nHD URL: {self.hdurl}"
