@@ -2,5 +2,7 @@
 Repo for CSCI 2910 - Lab 4 - Using Web APIs
 
 ## Issues
-**Issue:**
-**Solution:**
+**Issue:** Pydantic has squiggly lines under it
+**Solution:** installed pydantic
+
+
