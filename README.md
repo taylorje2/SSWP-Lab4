@@ -10,3 +10,6 @@ Repo for CSCI 2910 - Lab 4 - Using Web APIs
 
 **Issue:** Program not running. Forgot to add dotenv to main.py
 **Solution:** Added dotenv to main.py
+
+**Issue:** Program crashes if user enters an invalid birthdate
+**Solution:** Added exceptions to handle gracefully
