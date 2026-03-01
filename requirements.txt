@@ -1,0 +1,6 @@
+Used requests, pydantic, and python-dotenv
+
+installation instructions for vscode terminal:
+pip install pydantic
+pip install python-dotenv
+pip install requests
