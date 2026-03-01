@@ -11,7 +11,7 @@ class nasa_apod(BaseModel):
     # standard resolution image URL of the APOD
     url: str
     # high res version image URL of the APOD
-    hdurl: str
+    hdurl: str = "No HD version available"
 
     # results layout of the APOD
     def __str__(self):
